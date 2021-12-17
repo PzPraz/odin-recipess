@@ -1,0 +1,37 @@
+.lasagna {
+    width: 300px;
+    height: auto;
+    
+}
+
+h1 {
+    font-family: "Norse", sans-serif;
+    font-size: 50px;
+    color: #cc9543;
+}
+
+h2 {
+    font-family: "Open sans", sans-serif;
+}
+
+p {
+    font-family: "Open sans", sans-serif;
+}
+
+.bahan {
+    font-family: "Open sans", sans-serif;
+}
+
+.langkah {
+    font-family: "Open sans", sans-serif;
+    margin: 10px;
+}
+
+.satu, 
+.dua,
+.tiga,
+.empat,
+.lima {
+    margin: 15px;
+}
+
